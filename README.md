@@ -6,3 +6,6 @@ https://www.instructables.com/4X3-Keypad-Using-4-IOs-Only/
 
 And the demo video at:
 https://www.youtube.com/watch?v=ngTTyycYux8
+
+And online simulation:
+https://www.tinkercad.com/things/3cUOPNqcDMl-compactkeypad
